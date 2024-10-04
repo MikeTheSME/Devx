@@ -7,6 +7,7 @@ public class Class1 {
         System.out.println("Hello");
         System.out.println("chaimaa modification");
         System.out.println("shevket modification");
+        System.out.println("Hello");
 
     }
 }
