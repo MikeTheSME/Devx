@@ -4,12 +4,14 @@ public class Class1 {
     public static void main(String[] args)
     {
 
-        System.out.println("bye");
-        System.out.println("chaimaa modification");
-        System.out.println("shevket modification");
-        System.out.println("Hello");
-        System.out.println("Have Fun!");
-        System.out.println("Mike");
+        System.out.println("Let's practice GIT");
+        System.out.println("  *****   ****   ********\n" +
+                           " **   **   **       **\n" +
+                           "**         **       **\n" +
+                           "**  ****   **       **\n" +
+                           "**   **    **       **\n" +
+                           " **   **   **       **\n" +
+                           "  *****   ****     ****\n");
 
         /*
         Developer:
@@ -29,7 +31,7 @@ public class Class1 {
         6. Create a pull request on Github the base: will be master and the branch that you are merging to master is your new branch name
         add reviewers
 
-        Reviewers: Look over the pull request, if everything looks fine approve and merge to master branch
+        Reviewers: Look over the pull request, if everything looks fine approve and merge to master branch.
 
 
         Tester:
@@ -38,7 +40,7 @@ public class Class1 {
         Commands: git checkout master
         git pull origin master
 
-        2. Navigate to intellij and run code, test the behavior of the code and document results and report on confluence and Jira
+        2. Navigate to intellij and run code, test the behavior of the code and document results and report on confluence and Jira.
 
 
 
